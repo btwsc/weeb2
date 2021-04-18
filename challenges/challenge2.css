@@ -1,4 +1,4 @@
-.top{
+.left-top{
   width: 200px;
   height: 200px;
   background-color: red;
@@ -6,7 +6,7 @@
   left:400px;
   top:400px;
 }
-.mid{
+.middle{
   width: 200px;
   height: 200px;
   background-color: blue;
@@ -14,7 +14,7 @@
   top:200px;
   left: 200px;
 }
-.bot{
+.right-bottom{
   width: 200px;
   height: 200px;
   background-color: green;
