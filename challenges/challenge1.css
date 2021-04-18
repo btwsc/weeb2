@@ -1,0 +1,25 @@
+body {
+    background-color: #303032;
+    }
+.left-top{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: relative;
+  left:400px;
+}
+.middle{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  position: relative;
+  bottom:200px;
+}
+.right-bottom{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: relative;
+  bottom:400px;
+  left:200px;
+}
